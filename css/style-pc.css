@@ -321,6 +321,7 @@ a {
     border-radius: 5px;
     width: 100%;
     margin-top: 30px;
+    margin-bottom: 30px;
     text-align: center;
     overflow: auto;
     box-sizing: border-box;
@@ -371,6 +372,7 @@ a {
     background: transparent;
     padding: 30px;
     box-sizing: border-box;
+    display: none;
 }
 
 #contact h3 {
